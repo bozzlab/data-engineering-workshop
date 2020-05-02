@@ -1,4 +1,4 @@
-# workshop-for-data-engineer
+# data-engineering-workshop
 
 ## Python Example  
 ### Reference : https://snakify.org/   
